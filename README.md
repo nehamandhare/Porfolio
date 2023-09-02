@@ -12,21 +12,20 @@
 **Eastman Chemicals Ltd. | Assistant Chemical Engineer (_Jan' 2022 - Present_)**
 - Providing data on Unit operations and Process analysis of overpressure scenarios.
 - Creating dashboards of various projects using Visualization tools like Power BI.
-- Extrapolating data for relief calculation on Excel for
-sizing PSV, RD, and conservation vents.
-- Performing relief calculations on various overpressure
-scenarios and relief valve sizing.
-- Studying vessels according to API & ASME
-standards.
+- Extrapolating data for relief calculation on Excel for sizing PSV, RD, and conservation vents.
+- Performing relief calculations on various overpressure scenarios and relief valve sizing.
+- Studying vessels according to API & ASME standards.
 - Working in US and European sites.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**XED INTELLECT | Freelancer Subject Matter Creator (_Aug' 2021 - Oct' 2021_)**
+- Worked as Subject Matter Expert on subjects like offsite utility.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Customer Service Requests Analysis -
+
+- Performing basic data exploratory analysis
+- Visualizing the major types of complaints in each city.
+- Identifying significant variables by performing a statistical analysis using p-values and chi-square values. 
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
