@@ -23,27 +23,27 @@
 ## Projects
 ### Machine Learning:
 
-*### Customer Service Requests Analysis -*
+### *Customer Service Requests Analysis -*
 - Performing basic data exploratory analysis
 - Visualizing the major types of complaints in each city.
 - Identifying significant variables by performing a statistical analysis using p-values and chi-square values. 
 
-*### Retail Analysis with Walmart Data -*
+### *Retail Analysis with Walmart Data -*
 - Building prediction models to forecast demand.
 - Linear Regression – Utilizing variables like date and restructure dates. Hypothesize if CPI, unemployment, and fuel price have any impact on sales.
 - Selecting the model that gives best accuracy.
 
-*### California Housing Price Prediction -*
+### *California Housing Price Prediction -*
 - Building a model of housing prices to predict median house values in California. Performing Linear Regression, Decision Tree Regression and Random Forest Regression.
 - Performing Linear Regression with one independent variable.
 - Plotted the fitted model for training data as well as for test data to check if the fitted model satisfies the test data.
 
-*### Phishing Detector with LR -*
+### *Phishing Detector with LR -*
 - Building a phishing website classifier using Logistic Regression and Naive Bayes.
 - Use 70% of the data as training data and the remaining 30% as test data.
 - Checking accuracy using the test data and comparing the accuracy with the previous value.
 
-*### Mercedes-Benz Greener Manufacturing -*
+### *Mercedes-Benz Greener Manufacturing -*
 - Reducing the time a Mercedes-Benz spends on the test bench.
 - Performing EDA on the given dataset like missing values detection, null & unique values, variance, etc.
 - Apply label encoder & Perform dimensionality reduction. Predict your test values using XGBoost.
@@ -51,11 +51,11 @@
 
 
 ### Tableau:
-*### Comparative Study of Countries -*
+### *Comparative Study of Countries -*
 - Creating a dashboard to compare all the parameters mentioned above for different countries, to strategize market penetration, and to target new customers.
 
 
 ### SQL:
-*### ScienceQtech Employee Performance Mapping -*
+### *ScienceQtech Employee Performance Mapping -*
 - Creating employee database, tables, and ER diagram.
 - Write a query to list employees, max & min salary, calculate bonus, ranks based on experience, display employees in various countries, using stored function to check job profile of each employee and avg salary distribution on continent and country.
