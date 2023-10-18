@@ -6,7 +6,7 @@
 - **MTech. in Chemical Engineering** | Indian Institute of Technology Kharagpur (_July 2019 - June 2021_)								       		
 - **BTech. in Chemical Engineering**	| Haldia Institute of Technology (_Aug 2014 - July 2018_)	 			        		
 - **12th (AISSCE)** | Kendriya Vidyalaya Maligaon, Assam (_April 2013_)
-- **12th (AISSE)** | Kendriya Vidyalaya Lumding, Assam (_April 2011_)
+- **10th (AISSE)** | Kendriya Vidyalaya Lumding, Assam (_April 2011_)
 
 ## Work Experience
 **Eastman Chemicals Ltd. | Assistant Chemical Engineer (_Jan' 2022 - Present_)**
