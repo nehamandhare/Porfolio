@@ -1,6 +1,6 @@
 # Engineer
 
-#### Technical Skills: Python, SQL, R Programming, Tableau, MATLAB, Scikit-Learn, MS Excel, Power BI, Machine Learning and Deep Learning 
+#### Technical Skills: Python, SQL, R Programming, Tableau, MATLAB, Scikit-Learn, MS Excel, Power BI, ETL Tools, Machine Learning and Deep Learning 
 
 ## Education
 - **MTech. in Chemical Engineering** | Indian Institute of Technology Kharagpur (_July 2019 - June 2021_)								       		
@@ -10,12 +10,13 @@
 
 ## Work Experience
 **Eastman Chemicals Ltd. | Assistant Chemical Engineer (_Jan' 2022 - Present_)**
-- Providing data on Unit operations and Process analysis of overpressure scenarios.
-- Creating dashboards of various projects using Visualization tools like Power BI.
-- Extrapolating data for relief calculation on Excel for sizing PSV, RD, and conservation vents.
-- Performing relief calculations on various overpressure scenarios and relief valve sizing.
+Key responsibilities:
+- Gathering data on Unit operations and potential overpressure hazards associated with each operation. Analyze to identify trends & patterns.
+- Creating dashboards of various projects using Visualization tools like Power BI. This helps me to identify trends and patterns and to make better decisions about how to manage overpressure risks.
+- Based on the data collected and analyzed, designing of overpressure protection system that includes PSV, RD, and conservation vents is performed.
+- Identified and assessed overpressure hazards in industrial equipment.
 - Studying vessels according to API & ASME standards.
-- Working in US and European sites.
+- Experience working in the US and European sites and understanding of the different types of industrial equipment and the associated overpressure hazards.
 
 **XED INTELLECT | Freelancer Subject Matter Creator (_Aug' 2021 - Oct' 2021_)**
 - Worked as Subject Matter Expert on subjects like offsite utility.
